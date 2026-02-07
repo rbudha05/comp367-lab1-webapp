@@ -31,3 +31,4 @@ C:\C#\MyCoreApp\MyCoreApp\obj\Debug\net8.0\refint\MyCoreApp.dll
 C:\C#\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
 C:\C#\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
 C:\C#\MyCoreApp\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
+C:\C#\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
